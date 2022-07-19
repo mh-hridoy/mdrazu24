@@ -4,7 +4,7 @@
 Mern Stack Developer || JavaScript Developer || Typescript Developer || Content Creator || React Native Developer
 -----------------------------------------------------------------------------------------------------------------
 
-Hey, I'm Razu Islam . I'm a developer with 1 years of experience in developing Web and Android Application. My main Stack is MERN stack and I've really great experience with it. I can write clean and reusable codes. I've added a few of my MERN project to my portfolio, you can check them out. I'm familiar with: JavaScript, Typescript, React, React Native, Nuxt, Redux, Node, Express, Restfull Api, Advance Mapping using Mapbox or google Map, Firebase, WebRTC, Vue.js Next.js & most of the UI library starting tailwind to MUI AND ALWAYS LEARNING NEW TECHNOLOGIES.
+Hey, I'm Razu Islam . I'm a developer with 2+ years of experience in developing Web and Android Application. I'm proficient in creating fullstack microservices app. I can write clean and reusable codes. My favorite stack is MERN and MEVN. I've added a few of my MERN project to my portfolio, you can check them out.
 
 * 🌍  I'm based in Pabna Bangladesh
 * 🖥️  See my portfolio at [jsdevrazu](http://jsdevrazu.vercel.app)
