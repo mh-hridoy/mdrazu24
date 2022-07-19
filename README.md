@@ -1,7 +1,7 @@
 ![MasterHead](https://miro.medium.com/max/1136/0*sDuDpo2NIBrYYVJl)
 <h1 align="center">👋 My name is Razu Islam</h1>
 
-Mern Stack Developer || JavaScript Developer || Typescript Developer || Content Creator || React Native Developer
+Full Stack Developer Web & Android
 -----------------------------------------------------------------------------------------------------------------
 
 Hey, I'm Razu Islam . I'm a developer with 2+ years of experience in developing Web and Android Application. I'm proficient in creating fullstack microservices app. I can write clean and reusable codes. My favorite stack is MERN and MEVN. I've added a few of my MERN project to my portfolio, you can check them out.
