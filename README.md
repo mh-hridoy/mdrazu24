@@ -12,8 +12,8 @@ Hey, I'm Razu Islam . I'm a developer with 1 years of experience in developing W
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
-<a href="https://www.github.com/jsdevraju" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/jsdevraju?logo=github&style=for-the-badge&color=ec4899&labelColor=181824" /></a>
+<a href="https://github.com/mdrazu24" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/mdrazu24?logo=github&style=for-the-badge&color=ec4899&labelColor=181824" /></a>
 
 ### Skills
 
@@ -54,10 +54,10 @@ src="https://img.shields.io/github/followers/jsdevraju?logo=github&style=for-the
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/jsdevraju"><img src="https://github-readme-stats.vercel.app/api?username=jsdevraju&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=ec4899&bg_color=181824&hide_border=true&show_icons=true" alt="jsdevraju's GitHub stats" /></a>
+<a href="http://github.com/mdrazu24"><img src="https://github-readme-stats.vercel.app/api?username=mdrazu24&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=ec4899&bg_color=181824&hide_border=true&show_icons=true" alt="mdrazu24's GitHub stats" /></a>
 
-<a href="http://www.github.com/jsdevraju"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jsdevraju&stroke=ffffff&background=181824&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/mdrazu24"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mdrazu24&stroke=ffffff&background=181824&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/jsdevraju"><img src="https://activity-graph.herokuapp.com/graph?username=jsdevraju&bg_color=181824&color=ffffff&line=ec4899&point=ffffff&area_color=181824&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/mdrazu24"><img src="https://activity-graph.herokuapp.com/graph?username=mdrazu24&bg_color=181824&color=ffffff&line=ec4899&point=ffffff&area_color=181824&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/jsdevraju" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsdevraju&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=ec4899&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/mdrazu24" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdrazu24&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=ec4899&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
