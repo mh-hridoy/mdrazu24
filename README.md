@@ -15,7 +15,7 @@ I'm a Experienced Full Stack Web developer with over 2 years of experience in so
 * 🖥️  See my portfolio at [website](http://jsdevrazu.vercel.app)
 * ✉️  You can contact me at [islamrajulearn.dev@gmail.com](mailto:islamrajulearn.dev@gmail.com)
 * 🚀  I'm currently working on [Typescript Project](http://myapp.com)
-* 🧠  I'm learning React Native
+* 🧠  I'm learning Php and Laravel
 * 🤝  I'm open to collaborating on any project based on my skills
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
