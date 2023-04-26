@@ -18,7 +18,7 @@
 
 - 💬 Ask me about **react.js,next.js,vue.js,nuxt.js,svelte kit**
 
-- 📫 How to reach me **islamrajulearn.dev@gmail.com**
+- 📫 How to reach me **mh.hridoymahmud@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
