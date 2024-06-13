@@ -10,13 +10,9 @@
 
 - 🔭 I’m currently working on **Food Delivery App**
 
-- 🌱 I’m currently learning **Go
+- 👯 I’m looking to collaborate on **Open source projects**
 
-- 👯 I’m looking to collaborate on **Food Delivery App**
-
-- 👨‍💻 All of my projects are available at [https://hridoymahmud.vercel.app/](https://hridoymahmud.vercel.app/)
-
-- 💬 Ask me about **react.js,next.js,vue.js,nuxt.js,svelte kit**
+- 💬 Ask me about **go, node, pythong, java, flutter, react.js,next.js,vue.js,nuxt.js,svelte kit**
 
 - 📫 How to reach me **mh.hridoymahmud@gmail.com**
 
@@ -25,7 +21,7 @@
 <a href="https://twitter.com/mh-hridoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mh-hridoy" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mh-hridoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mh-hridoy" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/18542908" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18542908" height="30" width="40" /></a>
-<a href="https://fb.com/jsdevrzau" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jsdevrzau" height="30" width="40" /></a>
+<a href="https://fb.com/jsdevrzau" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mh-hridoy" height="30" width="40" /></a>
 <a href="https://instagram.com/mh-hridoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mh-hridoy" height="30" width="40" /></a>
 <a href="https://dribbble.com/mh-hridoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="mh-hridoy" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/ucv54fmk_ur7sjx70w02usaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucv54fmk_ur7sjx70w02usaa" height="30" width="40" /></a>
