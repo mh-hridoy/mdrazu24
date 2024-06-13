@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **Open source projects**
 
-- 💬 Ask me about **go, node, pythong, java, flutter, react.js,next.js,vue.js,nuxt.js,svelte kit**
+- 💬 Ask me about **go, node, python, java, flutter, react.js,next.js,vue.js,nuxt.js,svelte kit**
 
 - 📫 How to reach me **mh.hridoymahmud@gmail.com**
 
