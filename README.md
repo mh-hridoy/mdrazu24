@@ -6,7 +6,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mh-hridoy&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-- 🔭 I’m currently working on **Food Delivery App**
+- 🔭 I’m currently **Available for work**
 
 - 👯 I’m looking to collaborate on **Open source projects**
 
