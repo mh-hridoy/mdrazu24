@@ -12,7 +12,6 @@
 
 - 💬 Ask me about **go, node, python, java, flutter, react.js,next.js,vue.js,nuxt.js,svelte kit**
 
-- 📫 How to reach me **mh.hridoymahmud@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
