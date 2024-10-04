@@ -1,5 +1,5 @@
 ![MasterHead](https://miro.medium.com/max/1136/0*sDuDpo2NIBrYYVJl)
-<h1 align="center">👋 I'm Hridoy Mahmud</h1>
+<h1 align="center">👋</h1>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mh-hridoy&label=Profile%20views&color=0e75b6&style=flat" alt="mh-hridoy" /> </p>
